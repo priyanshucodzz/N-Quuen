@@ -1,1 +1,1 @@
-# N-Quuen
+# N-Queen
